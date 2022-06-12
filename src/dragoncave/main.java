@@ -1,3 +1,5 @@
+package dragoncave;
+
 import java.util.Scanner;
 
 public class main {
